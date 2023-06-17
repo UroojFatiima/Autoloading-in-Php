@@ -1,0 +1,16 @@
+{
+    "name": "hp/15_autoloading",
+    "authors": [
+        {
+            "name": "UroojFatiima",
+            "email": "135306978+UroojFatiima@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "app\\":" ./app"
+        }
+
+    }
+}
